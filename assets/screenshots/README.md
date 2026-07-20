@@ -1,0 +1,1 @@
+Application screenshots are stored in this directory.
